@@ -1,21 +1,20 @@
 ## Hi, I'm Henrique Vilarinho 👋
 
-I'm an Informatics Engineering student at University of Porto with a strong interest in **Distributed Systems** and **Generative AI**.
+I'm a Computer Engineering student at the University of Porto with a strong interest in **Distributed Systems** and **Generative AI**.
 
+🚀 I'm currently developing the **Boki Project**, a personal project exploring the intersection of these two areas, with a focus on building efficient solutions under limited hardware resources.
 
-### Some of my skills:
-![Programming Languages](https://skillicons.dev/icons?i=c,cpp,python,java,vscode,git,linux)
-<!--
-**rikivv/rikivv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 I’ll also be starting a new project soon focused on **Neural Network development**, along with other smaller projects to continue expanding my experience.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+### Languages
+![Programming Languages](https://skillicons.dev/icons?i=c,cpp,python,java&theme=light)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools
+![Tools](https://skillicons.dev/icons?i=git,vscode,arch&theme=light)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rikivv&show_icons=true&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=rikivv&theme=dark)
