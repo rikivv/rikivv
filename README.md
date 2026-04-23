@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi, I'm Henrique Vilarinho 👋
 
+I'm an Informatics Engineering student at University of Porto with a strong interest in **Distributed Systems** and **Generative AI**.
+
+
+### Some of my skills:
+![Programming Languages](https://skillicons.dev/icons?i=c,cpp,python,java,vscode,git,linux)
 <!--
 **rikivv/rikivv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
