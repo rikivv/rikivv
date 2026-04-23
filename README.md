@@ -16,6 +16,6 @@ I'm a Computer Engineering student at the University of Porto, based in Porto, P
 <br>
 
 <div align="center">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=rikivv&show_icons=true&theme=dracula"/>
-  <img height="220em" src="https://streak-stats.demolab.com/?user=rikivv&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=rikivv&show_icons=true&theme=dracula"/>
+  <img height="200em" src="https://streak-stats.demolab.com/?user=rikivv&theme=dracula"/>
 </div>
