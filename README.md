@@ -6,17 +6,22 @@ I'm a Computer Engineering student at the University of Porto, based in Porto, P
 
 🧠 Next, I plan to start a project focused on **Neural Network development**, along with other smaller projects to continue expanding my experience.
 
-### Languages
-![Programming Languages](https://skillicons.dev/icons?i=c,cpp,python,java&theme=light)
+## 🛠️ Tech Stack
 
-### Tools
-![Tools](https://skillicons.dev/icons?i=git,vscode,arch&theme=light)
+<div align="center">
+  <h3>Languages</h3>
+  <img height="50em" src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,php&theme=light"/>
+
+  <h3>Tools</h3>
+  <img height="50em" src="https://skillicons.dev/icons?i=bash,git,vscode,arch&theme=light"/>
+</div>
 
 <br>
 <br>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rikivv&show_icons=true&theme=dracula"/>
-  <text>&nbsp<text>
-  <img height="160em" src="https://streak-stats.demolab.com/?user=rikivv&theme=dracula"/>
+  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=rikivv&show_icons=true&theme=dracula"/>
+  <br>
+  <br>
+  <img width="500em" src="https://streak-stats.demolab.com/?user=rikivv&theme=dracula"/>
 </div>
