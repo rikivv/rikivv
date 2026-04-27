@@ -11,7 +11,7 @@ One of the things I enjoy most about programming is the freedom to build ideas f
   <img height="50em" src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,php&theme=light"/>
 
   <h3>Tools</h3>
-  <img height="50em" src="https://skillicons.dev/icons?i=bash,git,vscode,arch&theme=light"/>
+  <img height="50em" src="https://skillicons.dev/icons?i=bash,git,vim,vscode,arch&theme=light"/>
 </div>
 
 <br>
