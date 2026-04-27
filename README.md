@@ -1,10 +1,8 @@
 ## Hi, I'm Henrique Vilarinho 👋
 
-I'm a Computer Engineering student at the University of Porto, based in Porto, Portugal. I have a strong interest in **Distributed Systems** and **Generative AI**, and I’m fluent in Portuguese and English.
+I'm a third-year Computer Science and Engineering student at the University of Porto. I'm particularly interested in **Distributed Systems** and **Generative AI**.
 
-🚀 I'm currently developing the **Boki Project**, a personal project exploring the intersection of these areas, with a focus on building efficient solutions under constrained hardware resources.
-
-🧠 Next, I plan to start a project focused on **Neural Network development**, along with other smaller projects to continue expanding my experience.
+One of the things I enjoy most about programming is the freedom to build ideas from scratch and turn them into working systems. I find it especially rewarding when something that started as an idea actually works in practice.
 
 ## 🛠️ Tech Stack
 
@@ -17,11 +15,19 @@ I'm a Computer Engineering student at the University of Porto, based in Porto, P
 </div>
 
 <br>
+
+## 🚀 What I'm Up to
+Recently, I started working on a personal project that explores the intersection of **Distributed Systems** and **Generative AI**, with a focus on efficient, smaller-scale models suited for constrained hardware.
+
+I’ve also started learning **Rust** and plan to build a project around it to strengthen my understanding through practical experience.
+
 <br>
 
+## 📊 Github Stats
+
 <div align="center">
-  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=rikivv&show_icons=true&theme=dracula"/>
+  <img width="600em" src="https://github-readme-stats.vercel.app/api?username=rikivv&show_icons=true&theme=dracula"/>
   <br>
   <br>
-  <img width="500em" src="https://streak-stats.demolab.com/?user=rikivv&theme=dracula"/>
+  <img width="600em" src="https://streak-stats.demolab.com/?user=rikivv&theme=dracula"/>
 </div>
