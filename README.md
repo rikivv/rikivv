@@ -19,6 +19,7 @@ One of the things I enjoy most about programming is the freedom to build ideas f
 ## 🚀 What I'm Up to
 Recently, I started working on a personal project that explores the intersection of **Distributed Systems** and **Generative AI**, with a focus on efficient, smaller-scale models suited for constrained hardware.
 
+I’ve also started learning **Rust** and plan to build a project around it to strengthen my understanding through practical experience.
 I’ve also started learning **Rust** and plan to build a project around it to strengthen my understanding through practical experience. II’m also focusing on learning through documentation and hands-on work to build a deeper and more reliable understanding of the technologies I use.
 
 <br>
@@ -26,9 +27,8 @@ I’ve also started learning **Rust** and plan to build a project around it to s
 ## 📊 Github Stats
 
 <div align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rikivv&show_icons=true&theme=dracula)
+  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=rikivv&show_icons=true&theme=dracula"/>
   <br>
   <br>
-  
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=rikivv&theme=dracula)
+  <img width="500em" src="https://streak-stats.demolab.com/?user=rikivv&theme=dracula"/>
 </div>
