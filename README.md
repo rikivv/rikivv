@@ -26,8 +26,9 @@ I’ve also started learning **Rust** and plan to build a project around it to s
 ## 📊 Github Stats
 
 <div align="center">
-  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=rikivv&show_icons=true&theme=dracula"/>
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rikivv&show_icons=true&theme=dracula)
   <br>
   <br>
-  <img width="500em" src="https://streak-stats.demolab.com/?user=rikivv&theme=dracula"/>
+  
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=rikivv&theme=dracula)
 </div>
