@@ -37,3 +37,12 @@ I’ve also started learning **Rust** and plan to build a project around it to s
   <br>
   <img width="500em" src="https://streak-stats.demolab.com/?user=rikivv&theme=dracula"/>
 </div>
+
+---
+
+### 🔗 Connect with Me
+
+<div align="center">
+  <a href="https://github.com/rikivv" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:henriquesantanavilarinho@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</div>
