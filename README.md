@@ -1,4 +1,4 @@
-## Hi, I'm Henrique Vilarinho 👋
+## Hi, I'm Henrique 👋
 
 I'm a third-year Computer Science and Engineering student at the University of Porto. I'm particularly interested in **Distributed Systems** and **Generative AI**.
 
