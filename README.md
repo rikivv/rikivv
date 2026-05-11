@@ -4,6 +4,8 @@ I'm a third-year Computer Science and Engineering student at the University of P
 
 One of the things I enjoy most about programming is the freedom to build ideas from scratch and turn them into working systems. I find it especially rewarding when something that started as an idea actually works in practice.
 
+<br>
+
 ---
 
 ### 🛠️ Tech Stack
